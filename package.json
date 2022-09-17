@@ -1,0 +1,25 @@
+{
+  "name": "shiokbackend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UltraRaptorYT/ShiokBackEnd.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/UltraRaptorYT/ShiokBackEnd/issues"
+  },
+  "homepage": "https://github.com/UltraRaptorYT/ShiokBackEnd#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.1",
+    "google-search-results-nodejs": "^2.1.0"
+  }
+}
